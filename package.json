@@ -1,6 +1,6 @@
 {
   "name": "junapsis2",
-  "private": true,
+  "private": "false",
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://veranicolas.github.io/junapsis2",
